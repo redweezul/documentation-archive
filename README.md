@@ -1,3 +1,3 @@
-# Tech Writing Portfolio
-**for Christopher D. Williams**
+# Tech Writing Portfolio - Christopher D. Williams
+
 Collection of documentation &amp; tech writing work examples.
