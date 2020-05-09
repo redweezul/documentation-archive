@@ -6,6 +6,8 @@ Collection of documentation &amp; tech writing work examples.
 
 **Reference/Tutorial: "Private Cloud QuickCard."** Instructions on use of the Anchor file sharing platform (white-labeled). Written April 2018, revised November 2019.
 
+**Testing Reference Sheet.** User testing guidelines for Skype for Business (on-prem) deployment. Written March 2020, revised March 2020.
+
 **Tutorial: "Blue Paw."** A customized version of Solarwinds' remote connection tool for IT Support use. Instructions on using the tool to capture support-related recordings. Written May 2019.
 
 **User Guide: ModusCloud Portal.** User-level documentation for the ModusCloud email filtering/quarantine application. Written February 2020.
